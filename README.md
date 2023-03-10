@@ -6,7 +6,7 @@
 
   <p align="center">
     <br />
-    <a href="http://node-angular-app.s3-website.eu-central-1.amazonaws.com/">View Demo</a>
+    <a href="http://games-js.s3-website.eu-central-1.amazonaws.com">View Demo</a>
   </p>
 </div>
 
