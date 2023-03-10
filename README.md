@@ -37,7 +37,7 @@
 [aws-url]: https://aws.amazon.com/
 [javascript-url]: https://www.javascript.com/
 [javascript]: https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript
-[preview-app]: main/preview.png
+[preview-app]: Main/preview.png
 [github-issue]: https://img.shields.io/github/issues/BartekStachowicz/my-recipe-book?color=%235FBFF9&style=flat-square
 [linkedin]: https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=LinkedIn
 [linkedin-url]: https://linkedin.com/in/bstachowicz
