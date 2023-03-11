@@ -1,4 +1,4 @@
-# MeanApp
+# Games
 
 <div align="center">
 
